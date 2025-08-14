@@ -24,19 +24,19 @@
 
 ### 🏹 **LeetCode**
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Janvi1712-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)  
-<img src="8db81c6c-a1a5-48fb-af24-a0eba3abc574.png" width="800">
+<img src="https://raw.githubusercontent.com/JanviSingh1712/janviSingh1712/main/Screenshot%20(149).png" width="800">
 
 ---
 
 ### 🐙 **GitHub**
 ![GitHub Badge](https://img.shields.io/badge/GitHub-JanviSingh1712-181717?style=for-the-badge&logo=github)  
-<img src="6afee994-f367-4b47-9c53-60d2eb2979f2.png" width="800">
+<img src="https://raw.githubusercontent.com/JanviSingh1712/janviSingh1712/main/Screenshot%20(150).png" width="800">
 
 ---
 
 ### 🏆 **HackerRank**
 ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Janvi1712-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)  
-<img src="bebd0793-9f88-43e0-874b-630ab62be21d.png" width="800">
+<img src="https://raw.githubusercontent.com/JanviSingh1712/janviSingh1712/main/Screenshot%20(151).png" width="800">
 
 ---
 
